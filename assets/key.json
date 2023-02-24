@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "covid-19-tracker-325404",
+  "private_key_id": "1a84212fb011bf51c1d61bf35f85aedcdd73f6e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDL5dVg381PZ8Hj\nu351wpFcTvaKDe4rRPc8paDCEBpr8Hkwd7BH605JxBsf4v+tnwVok7rJWEGF3Jhg\nLxWNvrJXg0BZxQxK/1cjt+lRxcTwt1qo9rJn8STFdeYGil1TdOrhH1F0gt2s1uqn\nhlDeroq59NPNE0mZYSIiJlfVsONbPvMZRdXiyIF6MFkq+kBamBkA5BZt+uCbSds3\nEA8I6lpQ5tz62PZXTklDV5FYyN4dQvEZJcwbABI2cMgVe6OuOI3SMl2B2Tp/UpK3\nqv+YwB3MeiqoEl2mQmpztTC86CMrBIF9scG0FggXI3OcZ5eLVYmOdMz6FdJj0E6J\n6hN1DBipAgMBAAECggEABrrzKGOyx/Z1jrITakkuGaUsm6F6lViNLaYM8KLt8Far\ndWdZ/QG+H462035fcKhxWgKYVYmRfhzqNbCQLlHXWq6lKuFndrlHc9EgBTg5ODXh\nKvcbq/UogNETsu8Rxg2zrBMn0ef477nXXIjBNhx+TUWQ0THcCdFMOmLYHuBcHNif\nwBslBmumdX+jI+aVzhR5s45nuyllDVtb9UJrxRkgEG4FZrtf5GbaGV2OlMOVhPR1\nygvFy8s3u1zox7Wz7U0bF04RtaKYlCdPUrVbVwCEWorhShrYV4DiEhI00fuHDEiT\n51lxi4IUBeLpNKAsdP/HMKQ2o5gRTx088vQT6jbalQKBgQDriwJ9Fp3b2QJaZDDm\nbeCu1KFU5htUUXcVRtJuP6H/9VYfLioceXRBt/jcvnTjBxsTmDZW71BB/HKi1hZO\n8Q8Rca8mkSH77D84O5vAdvr5G2jms3qA0FEfgpze34vnICUokk+r4wBuA6pFKrdY\nZr1LjE7MJYufu3lhOyy3vyqlPQKBgQDdmzvYqBx13JM/pvSy3hkKukG3UOOikNaN\narU1J0HiWpvL8NzPxmQxHYgSYRdEqP00RqzKolndluckFGkhnYgcntvouQAd6aAQ\nIpKocSn09r4IZwM0KMip4sXKSIkcjoLmusNnNgs2u8LlisLnss/mJm5k+BOh2LSl\nKAoHY05v3QKBgQDp0kscJfF7JwgA92jbtsPOimHFR9BleaF/S5jlvOFyl/dwaIGB\nVsgj3R988sxR+uHUJ8v5rQO9HYAnSeNHZmGQ7Yvz+ysDTNjNV88b1oD5/U27hvvb\nF/EQGLblQIE/ZVe92NCiT2xDyfujQe5UIVlUv+oRGkxqus6ZyQZxOaJ5+QKBgB0L\n0cZOEpzoMmyvZ3diYQnk6+QpOA0Ayv5yNBopcRtIIQ+UHH0nVc6SPlmaXEBlnfqS\nIOfWa8z9kIJMIpODYGnP8KcKSJejHZW/0lU9r/ApvzK+vc7CYbrSvHYNF9ukWkf/\nxsjqboHYDm2jyHQyHcne061sTrZx/wt+ugHJ5GgJAoGAcUh88KHTGjVvAoOEv8+F\nSRXCtYBw4h5+OM8tiRNFuNNWavjyo/lb1C9TvM9WJEmknYM5ySa9rv6nLxfvNUMj\n/MlNgynJ6MOF65HGSNT3mwwjVV1dmVHqzgsDaopFiTqHHQ/nqwW8aGyqqZ39jIGV\nIXC818qaCs7s3Age8yANCFU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutter-dialogflow@covid-19-tracker-325404.iam.gserviceaccount.com",
+  "client_id": "116657183051669537121",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutter-dialogflow%40covid-19-tracker-325404.iam.gserviceaccount.com"
+}
